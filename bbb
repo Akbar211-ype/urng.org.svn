@@ -1,0 +1,17 @@
+<html>
+   <body>
+       <<h1>hai kak nadia cantik</h1>
+       <img src=""https://giphy.com/amp/explore/sayhi""
+        <h1>emangnya kamu cantik gitu?:)<h1>
+        <button id='btn_gak'onclick='alert'("I <3 u)'>gak</button>&nbsp:
+        <button id='btn_iyalah' onclick= 'iyalah(this)' style='position:absolute'>iyalah</button>
+   </body> I
+   <script>
+       function iyalah(id){
+          var gak = document.getElementById('btn_iyalah');
+          var i = math.floor(math.random()*300)+1;
+          var j =math.floor(math.random()*100)+mau.offsetTop:
+          id.style.left =i+'px';
+          id.style.top = j+'px
+    }
+    </script>
